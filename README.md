@@ -30,8 +30,6 @@
 
 **CS Undergrad '27 | AI/ML Research | Full-Stack Developer**
 
-![Manvi Modi]([./profile-photo.jpeg])
-
 ---
 
 ## About Me

@@ -30,7 +30,7 @@
 
 **CS Undergrad '27 | AI/ML Research | Full-Stack Developer**
 
-![Manvi Modi](./profile-photo.jpeg)
+![Manvi Modi]([./profile-photo.jpeg](https://github.com/manvi005/manvi005/blob/main/WhatsApp%20Image%202026-07-30%20at%209.38.20%20PM.jpeg))
 
 ---
 

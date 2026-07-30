@@ -35,7 +35,7 @@
 </div>
 
 <div>
-  <img src="YOUR_IMAGE_URL_HERE" alt="Manvi Modi" width="200" height="200" style="border-radius: 50%; border: 3px solid #4A90E2; object-fit: cover;">
+  <img src="[YOUR_IMAGE_URL_HERE](https://private-user-images.githubusercontent.com/147582284/629257598-795e32ba-d001-4f41-8d49-46dd172ea3ba.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODU0MzAyOTIsIm5iZiI6MTc4NTQyOTk5MiwicGF0aCI6Ii8xNDc1ODIyODQvNjI5MjU3NTk4LTc5NWUzMmJhLWQwMDEtNGY0MS04ZDQ5LTQ2ZGQxNzJlYTNiYS5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDczMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA3MzBUMTY0NjMyWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZTZhNThkNmM5MGRiMWMyZjk0ODFkZjdkNjA4OGE5ZWYxMDk3YmU0NmI2YmVjNjBiZjQzNWFiOTViMDgyMDQwZiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGanBlZyJ9.u2UrjhMAMZbeLuG3shIdEWaQyTW3w4aBkJgApO4Di3M)" alt="Manvi Modi" width="200" height="200" style="border-radius: 50%; border: 3px solid #4A90E2; object-fit: cover;">
 </div>
 
 </div>

@@ -1,27 +1,36 @@
-                                      
-                                      
-                  **+=                
-                ####*=**              
-              ##%#*+**#++             
-             #%%=***==%#+             
-             #%+=+=-+###*+            
-            ###+++***#@%#+            
-           **++++*+%%%%##++           
-        .::::-==**%%%%%*#*+           
-      ::.:::::--=*#%%%%%#*.           
-     .-::--:..::+=+##%%##+..          
-     :-:.:::.:.:-==*#%###+-           
-     :: -.::.:.::=--*##***..          
-     ---:.--:::.-+:=+%%%#=-.          
-     :=:---==::-----=%#%*-..          
-      :::.:-+-:.:::-:+###+::          
-      =-.:.:=--:-:--:++==-.           
-      -::.. .+:::--::=+=--:.          
-       +=-:::+=-:::---=--:-.          
-      :-+=-::---==-:.---::-..:..      
+                        
+                                            
+                      ++                    
+                  ######=*++                
+                 ##%%%**+**+                
+                #%%+*===+#%*+               
+               #%%=:*#=*#%%*++              
+                %*+*+-:==###*+              
+              ###%+=++*##%%%*+              
+             *#++++*++%%@%##*++             
+         ...:::-=++**%%%%%%****             
+       .....:.:.-===*#%%%%#%#*.             
+       -.:---:.:.----*%%%%%##*.             
+      -:--:-::.::::=-***#%###+:             
+      -::..::.::..:--=+###+##*=.            
+      :..:::::.:.:--=:-+#####*..            
+      -:-...--:::.::=:=+%%%%*=-.            
+      :=---====:.::+----%%%%*-..            
+      --::.:-=+:::::::--+#%##=::            
+       ==-.::-+--:.::----*+*=:::            
+       --=: ..-+::--.::.=#--::.             
+        -:-:::.++-:::::.-==--::.            
+        ++--:::++==::.:-:=--:::.            
+       :-==--::----=--:.:=--::-...:..       
 
 
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manvi-modi-8b5a27259/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manvi005) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manvimodi3@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://manvi-portfolio.vercel.app/) <br/> **CS Undergrad '27 \| AI/ML Research \| Full-Stack Developer** | ![Manvi Modi]([YOUR_IMAGE_URL_HERE](https://private-user-images.githubusercontent.com/147582284/629257598-795e32ba-d001-4f41-8d49-46dd172ea3ba.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODU0MzA4OTgsIm5iZiI6MTc4NTQzMDU5OCwicGF0aCI6Ii8xNDc1ODIyODQvNjI5MjU3NTk4LTc5NWUzMmJhLWQwMDEtNGY0MS04ZDQ5LTQ2ZGQxNzJlYTNiYS5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDczMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA3MzBUMTY1NjM4WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9Y2IyZjc5ZWY5Zjk0MDZmY2E0NjdhOTAwMTZlYzUxMTBlMDdlMzYxMjZkMjJlMTkwM2ViOTAyZmJlZDc4YjkzNyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGanBlZyJ9.k1jLZAHNJ7R6fN-6XR7Il2kY5uO_sW8Ce7LwSGm2Wa8)) |
+# Hey there! I'm Manvi Modi
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manvi-modi-8b5a27259/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manvi005) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manvimodi3@gmail.com) [![Phone](https://img.shields.io/badge/Phone-%2B91%206284716414-green?style=for-the-badge&logo=phone&logoColor=white)](tel:+91-6284716414)
+
+**CS Undergrad '27 | AI/ML Research | Full-Stack Developer**
+
+![Manvi Modi](YOUR_IMAGE_URL_HERE)
 
 ---
 
@@ -148,8 +157,8 @@ Passionate about applying deep learning to real-world problems, optimizing model
 
 Whether you're interested in AI/ML research, full-stack development, or just want to discuss the latest in LLMs and computer vision, I'd love to hear from you!
 
-- **Email**: manvimodi3@gmail.com
-- **Phone**: +91-6284716414
+- **Email**: [manvimodi3@gmail.com](mailto:manvimodi3@gmail.com)
+- **Phone**: [+91-6284716414](tel:+91-6284716414)
 - **GitHub**: [@manvi005](https://github.com/manvi005)
 - **LinkedIn**: [Manvi Modi](https://linkedin.com/in/manvi-modi-8b5a27259/)
 
@@ -160,6 +169,8 @@ Whether you're interested in AI/ML research, full-stack development, or just wan
 - Optimizing vision-language models for edge deployment
 - Building efficient fine-tuning pipelines for resource-constrained environments
 - Exploring open-source contributions in computer vision and NLP
+
+---
 
 ---
 

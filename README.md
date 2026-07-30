@@ -21,24 +21,8 @@
       :-+=-::---==-:.---::-..:..      
 
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
-
-<div style="flex: 1;">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manvi-modi-8b5a27259/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manvi005)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manvimodi3@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://manvi-portfolio.vercel.app/)
-
-**CS Undergrad '27 | AI/ML Research | Full-Stack Developer**
-
-</div>
-
-<div>
-  <img src="[YOUR_IMAGE_URL_HERE](https://private-user-images.githubusercontent.com/147582284/629257598-795e32ba-d001-4f41-8d49-46dd172ea3ba.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODU0MzAyOTIsIm5iZiI6MTc4NTQyOTk5MiwicGF0aCI6Ii8xNDc1ODIyODQvNjI5MjU3NTk4LTc5NWUzMmJhLWQwMDEtNGY0MS04ZDQ5LTQ2ZGQxNzJlYTNiYS5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDczMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA3MzBUMTY0NjMyWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZTZhNThkNmM5MGRiMWMyZjk0ODFkZjdkNjA4OGE5ZWYxMDk3YmU0NmI2YmVjNjBiZjQzNWFiOTViMDgyMDQwZiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGanBlZyJ9.u2UrjhMAMZbeLuG3shIdEWaQyTW3w4aBkJgApO4Di3M)" alt="Manvi Modi" width="200" height="200" style="border-radius: 50%; border: 3px solid #4A90E2; object-fit: cover;">
-</div>
-
-</div>
+|---|---|
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manvi-modi-8b5a27259/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manvi005) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manvimodi3@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://manvi-portfolio.vercel.app/) <br/> **CS Undergrad '27 \| AI/ML Research \| Full-Stack Developer** | ![Manvi Modi](YOUR_IMAGE_URL_HERE) |
 
 ---
 
@@ -155,13 +139,9 @@ Passionate about applying deep learning to real-world problems, optimizing model
 
 ## GitHub Stats
 
-<div align="center">
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manvi005&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manvi005&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
@@ -181,116 +161,6 @@ Whether you're interested in AI/ML research, full-stack development, or just wan
 - Optimizing vision-language models for edge deployment
 - Building efficient fine-tuning pipelines for resource-constrained environments
 - Exploring open-source contributions in computer vision and NLP
-
----
-
-## How to Customize Your Own Profile README
-
-### Step 1: Create the Repository
-1. Go to GitHub and click the **+** icon (top-right) → **New repository**
-2. Name it **exactly** as your GitHub username (e.g., `manvi005`)
-3. Make it **Public**
-4. Check **Add a README file**
-5. Click **Create repository**
-
-### Step 2: Edit Your README
-1. Click the pencil icon to edit the README
-2. Replace the template content with your own
-3. Scroll down and click **Commit changes**
-
-### Step 3: Personalization Tips
-
-#### Add Your Photo
-```markdown
-<div align="center">
-  <img src="https://YOUR_IMAGE_URL_HERE" width="300" alt="Profile Picture">
-</div>
-```
-- Take a professional photo
-- Upload to GitHub (in an issue, then copy the URL)
-- Or use a service like Imgur
-
-#### Create ASCII Art
-- Use online tools like: **ASCII Art Generator** (text2art.com, patorjk.com)
-- Keep it simple and readable
-- Use 60-80 character width for GitHub compatibility
-
-#### Add Badges
-Visit https://shields.io/ to generate custom badges for:
-- Languages and frameworks
-- Certifications
-- Social links
-
-#### GitHub Stats Widgets
-```markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-```
-Available themes: `dark`, `radical`, `merko`, `gruvbox`, `tokyonight`, `onedark`, `cobalt`, `synthwave`, `highcontrast`, `dracula`
-
-#### Customize Colors & Sections
-- Change section headers with `###` or `####`
-- Use emoji to make sections stand out
-- Organize by: About, Experience, Projects, Skills, Certifications
-- Add links to your best repositories
-
-#### Add Profile Views Counter
-```markdown
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
-```
-
-### Step 4: Make It Interactive
-
-#### Link to Your Projects
-```markdown
-### [Project Name](https://github.com/username/project-name)
-**Description** | Tech Stack
-```
-
-#### Use Tables for Skills
-```markdown
-| Category | Skills |
-|----------|--------|
-| Languages | Python, JavaScript, Java |
-| ML | PyTorch, TensorFlow |
-```
-
-#### Add Social Links
-```markdown
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-red)](mailto:your@email.com)
-```
-
-### Step 5: Advanced Customization
-
-**Embed Gists**
-```markdown
-<script src="https://gist.github.com/username/gist-id.js"></script>
-```
-
-**Add Activity Graph**
-```markdown
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME)](https://github.com/ashutosh00710/github-readme-activity-graph)
-```
-
-**Showcase Your Blog**
-```markdown
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-```
-
-### Pro Tips
-- Keep it under 3000 words for optimal readability
-- Update every 3-6 months with new projects
-- Use consistent emoji and formatting
-- Test locally with a Markdown preview tool
-- Make sure all links work (check them before committing)
-- Mobile-friendly by default (no horizontal scrolling)
-
-### Inspiration Resources
-- [Awesome GitHub Profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- [GitHub Readme Activity Graph](https://github.com/ashutosh00710/github-readme-activity-graph)
-- [Shields.io Badges](https://shields.io/)
 
 ---
 

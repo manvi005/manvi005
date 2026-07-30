@@ -30,7 +30,7 @@
 
 **CS Undergrad '27 | AI/ML Research | Full-Stack Developer**
 
-![Manvi Modi](YOUR_IMAGE_URL_HERE)
+![Manvi Modi](https://private-user-images.githubusercontent.com/147582284/629257598-795e32ba-d001-4f41-8d49-46dd172ea3ba.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODU0MzE1MDYsIm5iZiI6MTc4NTQzMTIwNiwicGF0aCI6Ii8xNDc1ODIyODQvNjI5MjU3NTk4LTc5NWUzMmJhLWQwMDEtNGY0MS04ZDQ5LTQ2ZGQxNzJlYTNiYS5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDczMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA3MzBUMTcwNjQ2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZTM5NWNlNjJkMGMyOWJhYmU3MTkwMjg2YWQ1NzkyMDAyNTE1ZGYyM2NiNDQxMTA2MTRmYjMzNmUxYmYyMTEzNCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGanBlZyJ9.NRPgEnRK9KMffeTYmaTarzKC2guFjGVxYB5L7GkhopA)
 
 ---
 
@@ -145,14 +145,6 @@ Passionate about applying deep learning to real-world problems, optimizing model
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manvi005&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manvi005&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## Let's Connect
 
 Whether you're interested in AI/ML research, full-stack development, or just want to discuss the latest in LLMs and computer vision, I'd love to hear from you!
@@ -169,8 +161,6 @@ Whether you're interested in AI/ML research, full-stack development, or just wan
 - Optimizing vision-language models for edge deployment
 - Building efficient fine-tuning pipelines for resource-constrained environments
 - Exploring open-source contributions in computer vision and NLP
-
----
 
 ---
 
